@@ -40,3 +40,5 @@ TEST(Vec3,set)
 
 
 }
+
+//yaaaay!!!
